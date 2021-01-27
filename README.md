@@ -1,5 +1,5 @@
 # Weight-into-lbs
-# Python code for change weight in kg and lbs
+# Python code for change weight in kg or lbs
 
 weight = int(input('weight: '))
 unit = input('(L)bs or (K)g: ')
